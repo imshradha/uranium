@@ -11,3 +11,26 @@ const batchSchema = new mongoose.Schema( {
 }, { timestamps: true });
 
 module.exports = mongoose.model('batches', batchSchema)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
